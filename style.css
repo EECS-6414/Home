@@ -1,0 +1,68 @@
+.button {
+border: black;
+color: white;
+padding: 16px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size: 16px;
+margin: 4px 2px;
+transition-duration: 0.4s;
+cursor: pointer;
+}
+
+.button1 {
+background-color: white;
+color: black;
+border: 2px solid crimson;
+}
+
+.button1:hover {
+background-color: crimson;
+color: white;
+}
+
+.button2 {
+background-color: white;
+color: black;
+border: 2px solid crimson;
+}
+
+.button2:hover {
+background-color: gray;
+color: white;
+}
+
+.center {
+text-align: center;
+}
+
+.content {
+max-width: 500px;
+margin: auto;
+}
+
+.description {
+color: black;
+padding: 16px 32px;
+text-decoration: none;
+font-size: 16px;
+}
+
+footer {
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: crimson;
+text-align: justify;
+height: 2px;
+}
+
+.footer-text {
+color: white;
+padding-left: 2%;
+padding-bottom: 10%;
+text-decoration: none;
+font-size: 16px;
+}
